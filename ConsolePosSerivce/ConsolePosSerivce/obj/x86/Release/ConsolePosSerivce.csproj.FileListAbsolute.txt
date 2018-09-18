@@ -1,0 +1,6 @@
+E:\vsWorkspace\ConsolePosSerivce\ConsolePosSerivce\bin\x86\Release\ConsolePosSerivce.exe.config
+E:\vsWorkspace\ConsolePosSerivce\ConsolePosSerivce\bin\x86\Release\ConsolePosSerivce.exe
+E:\vsWorkspace\ConsolePosSerivce\ConsolePosSerivce\bin\x86\Release\ConsolePosSerivce.pdb
+E:\vsWorkspace\ConsolePosSerivce\ConsolePosSerivce\obj\x86\Release\ConsolePosSerivce.csprojResolveAssemblyReference.cache
+E:\vsWorkspace\ConsolePosSerivce\ConsolePosSerivce\obj\x86\Release\ConsolePosSerivce.exe
+E:\vsWorkspace\ConsolePosSerivce\ConsolePosSerivce\obj\x86\Release\ConsolePosSerivce.pdb
